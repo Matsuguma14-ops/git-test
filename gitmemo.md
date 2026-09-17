@@ -27,3 +27,4 @@ before-after
   $ `git merge <ブランチ名>`
 - マージ済みブランチを削除
   $ `git branch -d <ブランチ名>`
+  んん－まかう
